@@ -1,2 +1,1 @@
-,,,
 ![Alt lion](lion.png)
