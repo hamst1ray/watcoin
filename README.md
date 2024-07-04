@@ -1,5 +1,4 @@
 ![Alt watcoin](watlogo.png)
-<!DOCTYPE html>
 <html>
 <head>
     <style>
