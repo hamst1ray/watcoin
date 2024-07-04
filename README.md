@@ -10,6 +10,7 @@
             height: 100vh;
             margin: 0;
             text-align: center;
+            background-color: #333;
 }
     </style>
 </head>
