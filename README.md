@@ -1,1 +1,0 @@
-![Alt lion](watlogo.png)
