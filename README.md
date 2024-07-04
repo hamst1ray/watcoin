@@ -1,4 +1,3 @@
-<div class="circle">
 ![Alt watcoin](watlogo.png)
 <html>
 <head>
