@@ -9,7 +9,8 @@
             height: 100vh;
             margin: 0;
             text-align: center;
-            background-color: #333;
+            background-color: #000;
+            background-image: linear-gradient(to bottom, #333333, #000000);
 }
     </style>
 </head>
