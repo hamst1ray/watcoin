@@ -1,5 +1,5 @@
-![Alt watcoin](watlogo.png)
 <div class="circle">
+![Alt watcoin](watlogo.png)
 <html>
 <head>
     <style>
