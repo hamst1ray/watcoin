@@ -1,4 +1,8 @@
 ![Alt watcoin](watlogo.png)
+.img-background {
+   background-image: urld('watcoin.png');
+   opacity: 1;
+   }
 <html>
 <head>
     <style>
