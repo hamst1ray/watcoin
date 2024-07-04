@@ -10,7 +10,6 @@
             height: 100vh;
             margin: 0;
             text-align: center;
-            font-family: B612, sans-serif;
 }
     </style>
 </head>
