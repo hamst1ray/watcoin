@@ -17,4 +17,10 @@
 <body>
     <h1>WHATCOIN</h1>
 </body>
+</head>
+<body>
+<div class="circle">
+<img src="watcoin.png" alt="watcoin.png">
+</div>
+</body>
 </html>
